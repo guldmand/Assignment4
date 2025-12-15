@@ -1,0 +1,34 @@
+📊 LSTM Hyperparameter Tuning Results
+Status: 50/54 configs complete (93%)
+
+🏆 Top 5 LSTM Configurations
+Rank	val_acc	optimizer	activation	dropout	rnn_units	Config
+1	77.4%	adamw	selu	0.2	    256	🥇 BEST
+2	76.2%	adamw	tanh	0.333	256	
+3	76.0%	adam	tanh	0.333	256	
+4	75.9%	adam	relu	0.333	256	
+5	75.9%	adamw	selu	0.2	64	
+📈 Key Insights
+Optimizer:
+
+AdamW og Adam performer bedst
+SGD ligger generelt lavere (ses i bottom configs)
+Activation:
+
+SELU + tanh dominerer top 5
+ReLU også ok men ikke bedst
+RNN Units:
+
+Større modeller (256 units) performer bedst
+Dog kan 64 units også score højt (#5: 75.9%)
+Dropout:
+
+Mixed results - både 0.2 og 0.333 i top 5
+🎯 Anbefaling
+Du mangler kun 4 configs (configs 51-54):
+
+LSTM-sgd-selu-0.2-256
+LSTM-sgd-selu-0.3333-64
+LSTM-sgd-selu-0.3333-128
+LSTM-sgd-selu-0.3333-256
+Disse er SGD configs (typisk lavere performance). Din bedste LSTM er allerede fundet: 77.4% val_acc 🎉
