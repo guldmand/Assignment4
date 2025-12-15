@@ -17,5 +17,5 @@ https://drive.google.com/drive/folders/1WVV5YAsO_X3avq7b8fQv2SZp5ilejKO1?usp=dri
 ## Model Summary
 <img src="screenshots/screenshot_final_model_summary.png" alt="Final Model Summary" />
 
-## Training plot
+## Final Model Training (Train+Validation) plot
 <img src="screenshots/screenshot_bigu_final_adam_tahn_256_trainstar_plot.png" alt="Plot" />
