@@ -1,0 +1,857 @@
+🎯 Training final model on 30850 samples...
+   Epochs: 100
+   💡 ModelCheckpoint will save best model (lowest training loss)
+================================================================================
+Epoch 1/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 19ms/step - accuracy: 0.6278 - loss: 1.0776
+Epoch 1: loss improved from None to 0.93289, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 19ms/step - accuracy: 0.6278 - loss: 1.0776
+Epoch 1: loss improved from None to 0.93289, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m17s[0m 19ms/step - accuracy: 0.6718 - loss: 0.9329
+Epoch 2/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m17s[0m 19ms/step - accuracy: 0.6718 - loss: 0.9329
+Epoch 2/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.7279 - loss: 0.7354
+Epoch 2: loss improved from 0.93289 to 0.72956, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 2: loss improved from 0.93289 to 0.72956, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.7325 - loss: 0.7296
+Epoch 3/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.7325 - loss: 0.7296
+Epoch 3/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.7504 - loss: 0.6418
+Epoch 3: loss improved from 0.72956 to 0.63245, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.7504 - loss: 0.6418
+Epoch 3: loss improved from 0.72956 to 0.63245, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.7511 - loss: 0.6324
+Epoch 4/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.7511 - loss: 0.6324
+Epoch 4/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 7ms/step - accuracy: 0.7784 - loss: 0.5412
+Epoch 4: loss improved from 0.63245 to 0.52882, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 4: loss improved from 0.63245 to 0.52882, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.7803 - loss: 0.5288
+Epoch 5/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.7803 - loss: 0.5288
+Epoch 5/100
+[1m481/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.7985 - loss: 0.4688
+Epoch 5: loss improved from 0.52882 to 0.45168, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 5: loss improved from 0.52882 to 0.45168, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8027 - loss: 0.4517
+Epoch 6/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8027 - loss: 0.4517
+Epoch 6/100
+[1m473/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.8070 - loss: 0.4006
+Epoch 6: loss improved from 0.45168 to 0.39561, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 6: loss improved from 0.45168 to 0.39561, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.8138 - loss: 0.3956
+Epoch 7/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.8138 - loss: 0.3956
+Epoch 7/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8295 - loss: 0.3552
+Epoch 7: loss improved from 0.39561 to 0.36283, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 7: loss improved from 0.39561 to 0.36283, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8278 - loss: 0.3628
+Epoch 8/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8278 - loss: 0.3628
+Epoch 8/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8429 - loss: 0.3157
+Epoch 8: loss improved from 0.36283 to 0.30973, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 8: loss improved from 0.36283 to 0.30973, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.8447 - loss: 0.3097
+Epoch 9/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.8447 - loss: 0.3097
+Epoch 9/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8634 - loss: 0.2647
+Epoch 9: loss improved from 0.30973 to 0.27605, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 9: loss improved from 0.30973 to 0.27605, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.8581 - loss: 0.2760
+Epoch 10/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.8581 - loss: 0.2760
+Epoch 10/100
+[1m478/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8642 - loss: 0.2539
+Epoch 10: loss improved from 0.27605 to 0.25434, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 10: loss improved from 0.27605 to 0.25434, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8637 - loss: 0.2543
+Epoch 11/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8637 - loss: 0.2543
+Epoch 11/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 6ms/step - accuracy: 0.8839 - loss: 0.2203
+Epoch 11: loss improved from 0.25434 to 0.21842, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 6ms/step - accuracy: 0.8839 - loss: 0.2203
+Epoch 11: loss improved from 0.25434 to 0.21842, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8796 - loss: 0.2184
+Epoch 12/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8796 - loss: 0.2184
+Epoch 12/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8904 - loss: 0.1970
+Epoch 12: loss improved from 0.21842 to 0.20720, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 12: loss improved from 0.21842 to 0.20720, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.8861 - loss: 0.2072
+Epoch 13/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 7ms/step - accuracy: 0.8861 - loss: 0.2072
+Epoch 13/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8883 - loss: 0.2037
+Epoch 13: loss improved from 0.20720 to 0.20456, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 13: loss improved from 0.20720 to 0.20456, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8890 - loss: 0.2046
+Epoch 14/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8890 - loss: 0.2046
+Epoch 14/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8737 - loss: 0.2305
+Epoch 14: loss did not improve from 0.20456
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8773 - loss: 0.2355
+
+Epoch 14: loss did not improve from 0.20456
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8773 - loss: 0.2355
+Epoch 15/100
+Epoch 15/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.8908 - loss: 0.2135
+Epoch 15: loss improved from 0.20456 to 0.19502, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 15: loss improved from 0.20456 to 0.19502, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8947 - loss: 0.1950
+Epoch 16/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.8947 - loss: 0.1950
+Epoch 16/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.9132 - loss: 0.1523
+Epoch 16: loss improved from 0.19502 to 0.15062, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 16: loss improved from 0.19502 to 0.15062, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9129 - loss: 0.1506
+Epoch 17/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9129 - loss: 0.1506
+Epoch 17/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.9182 - loss: 0.1371
+Epoch 17: loss improved from 0.15062 to 0.12913, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 17: loss improved from 0.15062 to 0.12913, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9225 - loss: 0.1291
+Epoch 18/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9225 - loss: 0.1291
+Epoch 18/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.9312 - loss: 0.1112
+Epoch 18: loss improved from 0.12913 to 0.12892, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 18: loss improved from 0.12913 to 0.12892, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9257 - loss: 0.1289
+Epoch 19/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9257 - loss: 0.1289
+Epoch 19/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.9194 - loss: 0.1603
+Epoch 19: loss did not improve from 0.12892
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9151 - loss: 0.1663
+Epoch 20/100
+
+Epoch 19: loss did not improve from 0.12892
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9151 - loss: 0.1663
+Epoch 20/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.9101 - loss: 0.1805
+Epoch 20: loss did not improve from 0.12892
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9122 - loss: 0.1735
+Epoch 21/100
+
+Epoch 20: loss did not improve from 0.12892
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9122 - loss: 0.1735
+Epoch 21/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9355 - loss: 0.1158
+Epoch 21: loss improved from 0.12892 to 0.10382, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 21: loss improved from 0.12892 to 0.10382, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9390 - loss: 0.1038
+Epoch 22/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9390 - loss: 0.1038
+Epoch 22/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9475 - loss: 0.0878
+Epoch 22: loss improved from 0.10382 to 0.08317, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 22: loss improved from 0.10382 to 0.08317, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9492 - loss: 0.0832
+Epoch 23/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9492 - loss: 0.0832
+Epoch 23/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.8840 - loss: 0.2406
+Epoch 23: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.8911 - loss: 0.2186
+Epoch 24/100
+
+Epoch 23: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.8911 - loss: 0.2186
+Epoch 24/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.8558 - loss: 0.3554
+Epoch 24: loss did not improve from 0.08317
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.8558 - loss: 0.3554
+Epoch 24: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.8709 - loss: 0.2971
+Epoch 25/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.8709 - loss: 0.2971
+Epoch 25/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9137 - loss: 0.1525
+Epoch 25: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9204 - loss: 0.1393
+Epoch 26/100
+
+Epoch 25: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9204 - loss: 0.1393
+Epoch 26/100
+[1m478/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9394 - loss: 0.1026
+Epoch 26: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9392 - loss: 0.1026
+Epoch 27/100
+
+Epoch 26: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9392 - loss: 0.1026
+Epoch 27/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 6ms/step - accuracy: 0.9479 - loss: 0.0863
+Epoch 27: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9493 - loss: 0.0839
+Epoch 28/100
+
+Epoch 27: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 6ms/step - accuracy: 0.9493 - loss: 0.0839
+Epoch 28/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9449 - loss: 0.0873
+Epoch 28: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9461 - loss: 0.0919
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9449 - loss: 0.0873
+Epoch 28: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9461 - loss: 0.0919
+Epoch 29/100
+Epoch 29/100
+[1m476/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.8952 - loss: 0.2182
+Epoch 29: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9093 - loss: 0.1889
+Epoch 30/100
+
+Epoch 29: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9093 - loss: 0.1889
+Epoch 30/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.8931 - loss: 0.2147
+Epoch 30: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9109 - loss: 0.1782
+Epoch 31/100
+
+Epoch 30: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9109 - loss: 0.1782
+Epoch 31/100
+[1m480/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9096 - loss: 0.1629
+Epoch 31: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9228 - loss: 0.1406
+Epoch 32/100
+
+Epoch 31: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9228 - loss: 0.1406
+Epoch 32/100
+[1m473/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9495 - loss: 0.0830
+Epoch 32: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9496 - loss: 0.0851
+Epoch 33/100
+
+Epoch 32: loss did not improve from 0.08317
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9496 - loss: 0.0851
+Epoch 33/100
+[1m476/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9462 - loss: 0.0897
+Epoch 33: loss improved from 0.08317 to 0.08242, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 33: loss improved from 0.08317 to 0.08242, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9497 - loss: 0.0824
+Epoch 34/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9497 - loss: 0.0824
+Epoch 34/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9476 - loss: 0.0884
+Epoch 34: loss improved from 0.08242 to 0.06938, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 34: loss improved from 0.08242 to 0.06938, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9575 - loss: 0.0694
+Epoch 35/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9575 - loss: 0.0694
+Epoch 35/100
+[1m475/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9591 - loss: 0.0690
+Epoch 35: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9591 - loss: 0.0727
+Epoch 36/100
+
+Epoch 35: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9591 - loss: 0.0727
+Epoch 36/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9523 - loss: 0.0993
+Epoch 36: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9476 - loss: 0.1086
+Epoch 37/100
+
+Epoch 36: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9476 - loss: 0.1086
+Epoch 37/100
+[1m480/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.8828 - loss: 0.3220
+Epoch 37: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9017 - loss: 0.2402
+Epoch 38/100
+
+Epoch 37: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9017 - loss: 0.2402
+Epoch 38/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9513 - loss: 0.0908
+Epoch 38: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9546 - loss: 0.0820
+Epoch 39/100
+
+Epoch 38: loss did not improve from 0.06938
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9546 - loss: 0.0820
+Epoch 39/100
+[1m476/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9692 - loss: 0.0549
+Epoch 39: loss improved from 0.06938 to 0.05653, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 39: loss improved from 0.06938 to 0.05653, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9683 - loss: 0.0565
+Epoch 40/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9683 - loss: 0.0565
+Epoch 40/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9665 - loss: 0.0605
+Epoch 40: loss did not improve from 0.05653
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9639 - loss: 0.0667
+Epoch 41/100
+
+Epoch 40: loss did not improve from 0.05653
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9639 - loss: 0.0667
+Epoch 41/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9647 - loss: 0.0581
+Epoch 41: loss improved from 0.05653 to 0.05347, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 41: loss improved from 0.05653 to 0.05347, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9679 - loss: 0.0535
+Epoch 42/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9679 - loss: 0.0535
+Epoch 42/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9713 - loss: 0.0504
+Epoch 42: loss improved from 0.05347 to 0.04803, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 42: loss improved from 0.05347 to 0.04803, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9723 - loss: 0.0480
+Epoch 43/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9723 - loss: 0.0480
+Epoch 43/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9702 - loss: 0.0499
+Epoch 43: loss improved from 0.04803 to 0.04688, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 43: loss improved from 0.04803 to 0.04688, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9731 - loss: 0.0469
+Epoch 44/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9731 - loss: 0.0469
+Epoch 44/100
+[1m480/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9699 - loss: 0.0597
+Epoch 44: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9638 - loss: 0.0686
+Epoch 45/100
+
+Epoch 44: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9638 - loss: 0.0686
+Epoch 45/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9424 - loss: 0.1366
+Epoch 45: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9347 - loss: 0.1559
+Epoch 46/100
+
+Epoch 45: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9347 - loss: 0.1559
+Epoch 46/100
+[1m481/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9371 - loss: 0.1120
+Epoch 46: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9477 - loss: 0.1028
+Epoch 47/100
+
+Epoch 46: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9477 - loss: 0.1028
+Epoch 47/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9302 - loss: 0.1556
+Epoch 47: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9404 - loss: 0.1285
+Epoch 48/100
+
+Epoch 47: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9404 - loss: 0.1285
+Epoch 48/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9674 - loss: 0.0613
+Epoch 48: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9674 - loss: 0.0613
+Epoch 48: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9690 - loss: 0.0581
+Epoch 49/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9690 - loss: 0.0581
+Epoch 49/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9690 - loss: 0.0571
+Epoch 49: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9712 - loss: 0.0523
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9690 - loss: 0.0571
+Epoch 49: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9712 - loss: 0.0523
+Epoch 50/100
+Epoch 50/100
+[1m476/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9654 - loss: 0.0639
+Epoch 50: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9659 - loss: 0.0659
+Epoch 51/100
+
+Epoch 50: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9659 - loss: 0.0659
+Epoch 51/100
+[1m476/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9690 - loss: 0.0594
+Epoch 51: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9688 - loss: 0.0608
+Epoch 52/100
+
+Epoch 51: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9688 - loss: 0.0608
+Epoch 52/100
+[1m475/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9715 - loss: 0.0550
+Epoch 52: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9667 - loss: 0.0672
+Epoch 53/100
+
+Epoch 52: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9667 - loss: 0.0672
+Epoch 53/100
+[1m475/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9619 - loss: 0.0786
+Epoch 53: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9678 - loss: 0.0624
+Epoch 54/100
+
+Epoch 53: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9678 - loss: 0.0624
+Epoch 54/100
+[1m472/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9750 - loss: 0.0464
+Epoch 54: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9730 - loss: 0.0515
+Epoch 55/100
+
+Epoch 54: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9730 - loss: 0.0515
+Epoch 55/100
+[1m472/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9600 - loss: 0.0766
+Epoch 55: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9653 - loss: 0.0647
+Epoch 56/100
+
+Epoch 55: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9653 - loss: 0.0647
+Epoch 56/100
+[1m481/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9739 - loss: 0.0522
+Epoch 56: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9712 - loss: 0.0604
+Epoch 57/100
+
+Epoch 56: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9712 - loss: 0.0604
+Epoch 57/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9313 - loss: 0.1645
+Epoch 57: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9419 - loss: 0.1337
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9313 - loss: 0.1645
+Epoch 57: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9419 - loss: 0.1337
+Epoch 58/100
+Epoch 58/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9597 - loss: 0.0770
+Epoch 58: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9646 - loss: 0.0647
+Epoch 59/100
+
+Epoch 58: loss did not improve from 0.04688
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9646 - loss: 0.0647
+Epoch 59/100
+[1m473/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9797 - loss: 0.0377
+Epoch 59: loss improved from 0.04688 to 0.03369, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 59: loss improved from 0.04688 to 0.03369, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9817 - loss: 0.0337
+Epoch 60/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9817 - loss: 0.0337
+Epoch 60/100
+[1m481/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9794 - loss: 0.0409
+Epoch 60: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9751 - loss: 0.0498
+Epoch 61/100
+
+Epoch 60: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9751 - loss: 0.0498
+Epoch 61/100
+[1m478/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 4ms/step - accuracy: 0.9686 - loss: 0.0680
+Epoch 61: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9703 - loss: 0.0636
+Epoch 62/100
+
+Epoch 61: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9703 - loss: 0.0636
+Epoch 62/100
+[1m481/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9754 - loss: 0.0531
+Epoch 62: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9760 - loss: 0.0498
+Epoch 63/100
+
+Epoch 62: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9760 - loss: 0.0498
+Epoch 63/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9749 - loss: 0.0471
+Epoch 63: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9728 - loss: 0.0549
+Epoch 64/100
+
+Epoch 63: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9728 - loss: 0.0549
+Epoch 64/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9685 - loss: 0.0704
+Epoch 64: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9672 - loss: 0.0711
+Epoch 65/100
+
+Epoch 64: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9672 - loss: 0.0711
+Epoch 65/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9758 - loss: 0.0471
+Epoch 65: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9759 - loss: 0.0489
+Epoch 66/100
+
+Epoch 65: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9759 - loss: 0.0489
+Epoch 66/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9605 - loss: 0.0849
+Epoch 66: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9648 - loss: 0.0756
+Epoch 67/100
+
+Epoch 66: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9648 - loss: 0.0756
+Epoch 67/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9660 - loss: 0.0782
+Epoch 67: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9702 - loss: 0.0650
+Epoch 68/100
+
+Epoch 67: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9702 - loss: 0.0650
+Epoch 68/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9802 - loss: 0.0423
+Epoch 68: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9786 - loss: 0.0456
+Epoch 69/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m0s[0m 5ms/step - accuracy: 0.9802 - loss: 0.0423
+Epoch 68: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9786 - loss: 0.0456
+Epoch 69/100
+[1m472/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9509 - loss: 0.0996
+Epoch 69: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9598 - loss: 0.0833
+Epoch 70/100
+
+Epoch 69: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9598 - loss: 0.0833
+Epoch 70/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9765 - loss: 0.0523
+Epoch 70: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9764 - loss: 0.0485
+Epoch 71/100
+
+Epoch 70: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9764 - loss: 0.0485
+Epoch 71/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9760 - loss: 0.0506
+Epoch 71: loss did not improve from 0.03369
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9760 - loss: 0.0506
+Epoch 71: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9764 - loss: 0.0481
+Epoch 72/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9764 - loss: 0.0481
+Epoch 72/100
+[1m480/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9532 - loss: 0.1178
+Epoch 72: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9591 - loss: 0.0947
+Epoch 73/100
+
+Epoch 72: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9591 - loss: 0.0947
+Epoch 73/100
+[1m480/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 4ms/step - accuracy: 0.9770 - loss: 0.0438
+Epoch 73: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9776 - loss: 0.0439
+Epoch 74/100
+
+Epoch 73: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9776 - loss: 0.0439
+Epoch 74/100
+[1m481/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9672 - loss: 0.0642
+Epoch 74: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9706 - loss: 0.0555
+Epoch 75/100
+
+Epoch 74: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9706 - loss: 0.0555
+Epoch 75/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 4ms/step - accuracy: 0.9839 - loss: 0.0303
+Epoch 75: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 4ms/step - accuracy: 0.9806 - loss: 0.0378
+Epoch 76/100
+
+Epoch 75: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 4ms/step - accuracy: 0.9806 - loss: 0.0378
+Epoch 76/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9779 - loss: 0.0538
+Epoch 76: loss did not improve from 0.03369
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9779 - loss: 0.0538
+Epoch 76: loss did not improve from 0.03369
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9779 - loss: 0.0528
+Epoch 77/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9779 - loss: 0.0528
+Epoch 77/100
+[1m473/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9810 - loss: 0.0338
+Epoch 77: loss improved from 0.03369 to 0.03101, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 77: loss improved from 0.03369 to 0.03101, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9826 - loss: 0.0310
+Epoch 78/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9826 - loss: 0.0310
+Epoch 78/100
+[1m478/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9839 - loss: 0.0300
+Epoch 78: loss improved from 0.03101 to 0.02826, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 78: loss improved from 0.03101 to 0.02826, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9849 - loss: 0.0283
+Epoch 79/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9849 - loss: 0.0283
+Epoch 79/100
+[1m476/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9805 - loss: 0.0383
+Epoch 79: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9777 - loss: 0.0459
+Epoch 80/100
+
+Epoch 79: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m3s[0m 5ms/step - accuracy: 0.9777 - loss: 0.0459
+Epoch 80/100
+[1m478/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 4ms/step - accuracy: 0.9282 - loss: 0.1759
+Epoch 80: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9446 - loss: 0.1276
+Epoch 81/100
+
+Epoch 80: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9446 - loss: 0.1276
+Epoch 81/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9710 - loss: 0.0624
+Epoch 81: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9728 - loss: 0.0568
+Epoch 82/100
+
+Epoch 81: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9728 - loss: 0.0568
+Epoch 82/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9829 - loss: 0.0332
+Epoch 82: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9832 - loss: 0.0313
+Epoch 83/100
+
+Epoch 82: loss did not improve from 0.02826
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9832 - loss: 0.0313
+Epoch 83/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9888 - loss: 0.0273
+Epoch 83: loss improved from 0.02826 to 0.02789, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9888 - loss: 0.0273
+Epoch 83: loss improved from 0.02826 to 0.02789, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9869 - loss: 0.0279
+Epoch 84/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9869 - loss: 0.0279
+Epoch 84/100
+[1m473/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9688 - loss: 0.0567
+Epoch 84: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9723 - loss: 0.0560
+Epoch 85/100
+
+Epoch 84: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9723 - loss: 0.0560
+Epoch 85/100
+[1m478/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9730 - loss: 0.0624
+Epoch 85: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9757 - loss: 0.0504
+Epoch 86/100
+
+Epoch 85: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9757 - loss: 0.0504
+Epoch 86/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 4ms/step - accuracy: 0.9784 - loss: 0.0526
+Epoch 86: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9767 - loss: 0.0566
+Epoch 87/100
+
+Epoch 86: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9767 - loss: 0.0566
+Epoch 87/100
+[1m472/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9664 - loss: 0.0711
+Epoch 87: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9722 - loss: 0.0561
+Epoch 88/100
+
+Epoch 87: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9722 - loss: 0.0561
+Epoch 88/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9799 - loss: 0.0431
+Epoch 88: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9812 - loss: 0.0390
+Epoch 89/100
+
+Epoch 88: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9812 - loss: 0.0390
+Epoch 89/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9845 - loss: 0.0338
+Epoch 89: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9827 - loss: 0.0362
+Epoch 90/100
+
+Epoch 89: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9827 - loss: 0.0362
+Epoch 90/100
+[1m481/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9819 - loss: 0.0397
+Epoch 90: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9795 - loss: 0.0432
+Epoch 91/100
+
+Epoch 90: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9795 - loss: 0.0432
+Epoch 91/100
+[1m477/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9693 - loss: 0.0652
+Epoch 91: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9714 - loss: 0.0598
+Epoch 92/100
+
+Epoch 91: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9714 - loss: 0.0598
+Epoch 92/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9743 - loss: 0.0572
+Epoch 92: loss did not improve from 0.02789
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9743 - loss: 0.0572
+Epoch 92: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9741 - loss: 0.0590
+Epoch 93/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9741 - loss: 0.0590
+Epoch 93/100
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9757 - loss: 0.0624
+Epoch 93: loss did not improve from 0.02789
+[1m482/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9757 - loss: 0.0624
+Epoch 93: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9785 - loss: 0.0503
+Epoch 94/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9785 - loss: 0.0503
+Epoch 94/100
+[1m480/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 4ms/step - accuracy: 0.9849 - loss: 0.0325
+Epoch 94: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9815 - loss: 0.0450
+Epoch 95/100
+
+Epoch 94: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9815 - loss: 0.0450
+Epoch 95/100
+[1m479/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9527 - loss: 0.1070
+Epoch 95: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9612 - loss: 0.0851
+Epoch 96/100
+
+Epoch 95: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9612 - loss: 0.0851
+Epoch 96/100
+[1m474/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9773 - loss: 0.0398
+Epoch 96: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9819 - loss: 0.0348
+Epoch 97/100
+
+Epoch 96: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9819 - loss: 0.0348
+Epoch 97/100
+[1m473/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9772 - loss: 0.0426
+Epoch 97: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9826 - loss: 0.0327
+Epoch 98/100
+
+Epoch 97: loss did not improve from 0.02789
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9826 - loss: 0.0327
+Epoch 98/100
+[1m480/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 4ms/step - accuracy: 0.9893 - loss: 0.0197
+Epoch 98: loss improved from 0.02789 to 0.02023, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+Epoch 98: loss improved from 0.02789 to 0.02023, saving model to models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9895 - loss: 0.0202
+Epoch 99/100
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9895 - loss: 0.0202
+Epoch 99/100
+[1m473/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9899 - loss: 0.0212
+Epoch 99: loss did not improve from 0.02023
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9853 - loss: 0.0321
+Epoch 100/100
+
+Epoch 99: loss did not improve from 0.02023
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9853 - loss: 0.0321
+Epoch 100/100
+[1m478/483[0m [32m━━━━━━━━━━━━━━━━━━━[0m[37m━[0m [1m0s[0m 5ms/step - accuracy: 0.9650 - loss: 0.0831
+Epoch 100: loss did not improve from 0.02023
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9695 - loss: 0.0690
+
+Epoch 100: loss did not improve from 0.02023
+[1m483/483[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 5ms/step - accuracy: 0.9695 - loss: 0.0690
+
+================================================================================
+✅ FINAL MODEL TRAINING COMPLETE!
+================================================================================
+
+📈 Training Summary:
+   Epochs trained: 100
+   Final train accuracy: 0.9695
+   Final train loss: 0.0690
+   🏆 BEST Epoch: 98
+   🏆 BEST train accuracy: 0.9895
+   🏆 BEST train loss: 0.0202
+   Training time: 4.39 minutes
+   Model saved to: models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+================================================================================
+🔮 GENERATING KAGGLE PREDICTIONS
+================================================================================
+
+📂 Loading BEST model from: models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+   (This is the model from epoch 98 with lowest training loss)
+
+================================================================================
+✅ FINAL MODEL TRAINING COMPLETE!
+================================================================================
+
+📈 Training Summary:
+   Epochs trained: 100
+   Final train accuracy: 0.9695
+   Final train loss: 0.0690
+   🏆 BEST Epoch: 98
+   🏆 BEST train accuracy: 0.9895
+   🏆 BEST train loss: 0.0202
+   Training time: 4.39 minutes
+   Model saved to: models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+
+================================================================================
+🔮 GENERATING KAGGLE PREDICTIONS
+================================================================================
+
+📂 Loading BEST model from: models/BiGRU_FINAL_adam_tanh_256_FULLDATA_best.keras
+   (This is the model from epoch 98 with lowest training loss)
+
+🔮 Generating predictions on test set (3428 samples)...
+
+🔮 Generating predictions on test set (3428 samples)...
+[1m54/54[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 24ms/step
+[1m54/54[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m2s[0m 24ms/step
+✓ Predictions saved to: BiGRU_FINAL_adam_tanh_256_FULLDATA_kaggle_submission.csv
+
+📊 Creating training history plots...
+✓ Predictions saved to: BiGRU_FINAL_adam_tanh_256_FULLDATA_kaggle_submission.csv
+
+📊 Creating training history plots...
